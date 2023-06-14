@@ -1,0 +1,16 @@
+/*-----------------
+Fonts
+-------------------*/
+@font-face {
+    font-family: "Vazir";
+    src: url(../webfonts/Vazir-Regular.ttf);
+}
+body{
+    font-family: 'Vazir'!important;
+}
+.home-img{
+    background-image: url(../img/back.png);
+}
+.text-crate {
+    margin-right: 80px;
+}
